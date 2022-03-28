@@ -54,7 +54,7 @@ func bfs(urlStr string, maxDepth int) []string {
 
 	for i := 0; i < maxDepth; i++ {
 		q, nq = nq, make(map[string]struct{})
-		for url, _ := range q {
+		for url := range q {
 			if _, ok := seen[url]; ok {
 				continue
 			}
@@ -66,7 +66,7 @@ func bfs(urlStr string, maxDepth int) []string {
 	}
 
 	var result []string
-	for url, _ := range seen {
+	for url := range seen {
 		result = append(result, url)
 	}
 
