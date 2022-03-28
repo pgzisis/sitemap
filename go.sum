@@ -1,0 +1,4 @@
+github.com/pgzisis/html-link-parser v0.0.0-20220327162958-a44d9fb44717 h1:WB3tTotGKCRZTRBK3+H32y/1XsFOSlsB118iNn7A2N4=
+github.com/pgzisis/html-link-parser v0.0.0-20220327162958-a44d9fb44717/go.mod h1:A6YvT7Mwhiqut2prcQ0ExsYl6IKfxjvnI9o48W2fF4k=
+golang.org/x/net v0.0.0-20220325170049-de3da57026de h1:pZB1TWnKi+o4bENlbzAgLrEbY4RMYmUIRobMcSmfeYc=
+golang.org/x/net v0.0.0-20220325170049-de3da57026de/go.mod h1:CfG3xpIq0wQ8r1q4Su4UZFWDARRcnwPjda9FqA0JpMk=
